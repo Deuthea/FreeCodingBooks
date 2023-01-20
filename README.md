@@ -3,3 +3,4 @@
 # Changelog
 - Linux book added
 - Progit book added
+- All books added
