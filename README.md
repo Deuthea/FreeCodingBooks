@@ -1,5 +1,5 @@
 # Coding books for all
-**Download this repo & access all books**
+**Fork this repo & don't forget to star this repo**
 # Changelog
 - Linux book added
 - Progit book added
